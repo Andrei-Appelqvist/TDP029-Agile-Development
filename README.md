@@ -1,10 +1,10 @@
 # TDP029 Project - Träningsdagbok
 Group project for course TDP029.
 Members:
-Andrei Moga (Me)
-Kenan
-Victor
-Alvin
+Andrei Moga (Me),
+Kenan,
+Victor,
+Alvin,
 Wilhelm
 
 ## Contents
