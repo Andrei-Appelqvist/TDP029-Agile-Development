@@ -1,4 +1,11 @@
 # TDP029 Project - Träningsdagbok
+Group project for course TDP029.
+Members:
+Andrei Moga (Me)
+Kenan
+Victor
+Alvin
+Wilhelm
 
 ## Contents
 1. [Introduction](#1-introduction)
@@ -22,11 +29,11 @@ This part of the document will explain how to install and run the app in a devel
 
 First thing you need to have git installed to be able to download the project. It is also neccesssary to be a contributor on the git repository since it is set to private for now. To download the project navigate to a folder where you want the project to be saved and then execute the following command:
 
-`git clone git@github.com:WilhelmHandberg/TDP029-Zoezi.git`
+`git clone git@github.com:Andrei-Moga/TDP029-Agile-Development.git`
 
 Now you should have the project downloaded and you should be able to navigate to the root folder of the project:
 
-`cd TDP029-Zoezi/`
+`cd TDP029-Agile-Development/`
 
 ### Frontend
 To install the frontend part of the project you will need to have npm installed on your computer. when npm is installed the first thing you want to do is install the @vue/cli package globally. You do that using this command:
